@@ -1,0 +1,20 @@
+1 Authencation
+signup,login,socail auth,update profile,gitprofile  
+2 Layout
+3 Course
+4 Analytics
+5 Orders
+6 Notification
+
+npm i bcryptjs cookie-parser cors dotenv express ioredis jsonwebtoken mongoose ts-node-dev @types/bcryptjs @types/cookie-parser  @types/cors @types/express  @types/mongoose @types/node typescript
+
+
+Remove-Item -Recurse -Force node_modules
+Remove-Item -Force package-lock.json
+ 
+
+mongo db cluster
+prashanthreddy
+kUY80uHtrf5QIwDw
+
+mongodb+srv://prashanthreddy:<password>@lms.hwd9jui.mongodb.net/
